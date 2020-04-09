@@ -1,3 +1,3 @@
-Nama : 
+Nama : Dandy Garda Dirgantara
 
-NIM  :
+NIM  : D121181506
