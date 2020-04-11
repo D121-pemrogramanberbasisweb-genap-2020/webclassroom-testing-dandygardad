@@ -1,4 +1,5 @@
 <?php
     echo "Hello World!<br>";
-    echo "Nama saya : Dandy Garda Dirgantara";
+    $nama = "Dandy Garda Dirgantara";
+    echo "Nama saya : $nama";
 ?>
